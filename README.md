@@ -26,19 +26,19 @@ Once the file is open in the Remix IDE, navigate to the'compiler' tab and make s
 Below, you can see examples of one of these functionalities and the resulting account balance being viewed: 
 Set Accounts:
 
-![set_accounts](execution_results/set_accounts.png)
+![set_accounts](execution_results/Set_Accounts.png)
 
 Ether Deposits:
-![1_ether_deposit](execution_results/1_ether_deposit.png)
+![1_ether_deposit](execution_results/1_Ether_Deposit.png)
 
-![5_ether_deposit](execution_results/5_ether_deposit.png)
+![5_ether_deposit](execution_results/5_Ether_Deposit.png)
 
-![10_ether_deposit](execution_results/10_ether_deposit.png)
+![10_ether_deposit](execution_results/10_Ether_Deposit.png)
 
 Ether Withdraws:
-![5_ether_withdraw](execution_results/5_ether_withdraw.png)
+![5_ether_withdraw](execution_results/5_Ether_Withdraw.png)
 
-![10_ether_withdraw](execution_results/10_ether_withdraw.png)
+![10_ether_withdraw](execution_results/10_Ether_Withdraw.png)
 
 ---
 
