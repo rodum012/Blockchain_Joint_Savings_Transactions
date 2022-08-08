@@ -24,11 +24,13 @@ In order to launch the application, navigate to the Blockchain_Joint_Savings_Tra
 Once the file is open in the Remix IDE, navigate to the'compiler' tab and make sure the compiler is set to 0.5.0, and then compile the joint_savings_1.sol file. Next, navigate to the 'Deploy and Run Transactions tab' and click deploy to deploy the application. Once deployed, naviagte to the deployed contracts section to interact with the various funcionalities of the application such as deposit, setAccounts, and withdraw. 
 
 Below, you can see examples of one of these functionalities and the resulting account balance being viewed: 
-
+Set Accounts:
 ![set_accounts](execution_results/set_accounts.png)
+Ether Deposits:
 ![1_ether_deposit](execution_results/1_ether_deposit.png)
 ![5_ether_deposit](execution_results/5_ether_deposit.png)
 ![10_ether_deposit](execution_results/10_ether_deposit.png)
+Ether Withdraws:
 ![5_ether_withdraw](execution_results/5_ether_withdraw.png)
 ![10_ether_withdraw](execution_results/10_ether_withdraw.png)
 
